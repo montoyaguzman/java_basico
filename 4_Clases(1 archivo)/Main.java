@@ -1,5 +1,7 @@
-class Main {
-  public static void main(String args[]) {
+public class Main {
+
+  public static void main(String[] args) {
+    System.out.println("Hello World");
     // Crear objeto
     // Crear instancia
     Cliente obj1 = new Cliente();
@@ -8,4 +10,14 @@ class Main {
     System.out.println(usuario instanceof Object);
 
   }
+}
+
+class Cliente {
+  Cliente() {
+
+  }
+}
+
+class Usuario {
+
 }
