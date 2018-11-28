@@ -2,6 +2,26 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Parseos",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "Parseos",
+      "args": ""
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Suma",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopOnEntry": false,
+      "mainClass": "Suma",
+      "args": ""
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Condiciones",
       "request": "launch",
       "cwd": "${workspaceFolder}",
