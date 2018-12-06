@@ -17,5 +17,11 @@ public class Parseos {
       System.out.println(numero3);
       System.out.println(numero4);
       System.out.println(n);
+
+      byte i = 1;
+      byte j = 1;
+      k = (int)i + (int)j;
+      System.out.println("k: " + k);
+
   }
 }
