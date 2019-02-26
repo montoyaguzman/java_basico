@@ -2,6 +2,18 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - OrdenamientoLista",
+      "request": "launch",
+      "mainClass": "OrdenamientoLista"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - MovimientosLista",
+      "request": "launch",
+      "mainClass": "MovimientosLista"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Parseos",
       "request": "launch",
       "cwd": "${workspaceFolder}",
